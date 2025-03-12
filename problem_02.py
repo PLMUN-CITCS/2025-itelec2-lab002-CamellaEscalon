@@ -13,4 +13,4 @@ def main():
     print(f"The square of {number} is {(number * number):.2f}")
 
 if __name__ == "__main__":
-    main()
+    main() 
